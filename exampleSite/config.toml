@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://mmm976.github.io/tella/"
 title = "Tella"
 author = "username"
 languageCode = "en"
@@ -86,3 +86,4 @@ enableRobotsTXT = true
     url = "https://github.com/opera7133/tella"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
+
