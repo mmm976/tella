@@ -1,11 +1,16 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
+    "title": "アイデアをカタチに。世界へ届ける力を、すべてここに。",
     "image": "img/slide/header.jpg"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
+    "title": "物流から販売まで、世界とあなたをつなぐワンストップパートナー",
+    "image": "img/slide/₋444.jpg",
+    "color": "text-black"
+  },  
+  {
+    "title": "「モノをつくる、運ぶ、売る」をシンプルに。フレンドリーで安心できる体制で、国内外のビジネスを支えます。",
+    "image": "img/slide/₋444.jpg",
     "color": "text-black"
   }
 ]
